@@ -13,11 +13,4 @@
       <url>https://raw.github.com/eaglesakura/eglibrary/master/LICENSE</url>
     </license>
   </licenses>
-  <dependencies>
-    <dependency>
-      <groupId>com.eaglesakura</groupId>
-      <artifactId>eglibrary-java-core</artifactId>
-      <version>0.1.0</version>
-    </dependency>
-  </dependencies>
 </project>
