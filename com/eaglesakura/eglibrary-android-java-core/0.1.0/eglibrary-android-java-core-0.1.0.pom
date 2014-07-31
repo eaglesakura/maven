@@ -14,10 +14,9 @@
   </licenses>
   <dependencies>
     <dependency>
-      <groupId>eglibrary</groupId>
+      <groupId>com.eaglesakura</groupId>
       <artifactId>eglibrary-java-core</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
+      <version>+</version>
     </dependency>
   </dependencies>
 </project>
