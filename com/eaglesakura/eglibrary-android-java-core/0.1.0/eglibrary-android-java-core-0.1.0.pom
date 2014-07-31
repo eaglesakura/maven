@@ -5,6 +5,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>eglibrary-android-java-core</artifactId>
   <version>0.1.0</version>
+  <packaging>aar</packaging>
   <inceptionYear>2011</inceptionYear>
   <licenses>
     <license>
