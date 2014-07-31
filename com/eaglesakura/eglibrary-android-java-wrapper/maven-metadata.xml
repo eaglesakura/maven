@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.eaglesakura</groupId>
-  <artifactId>eglibrary-android-java-core</artifactId>
+  <artifactId>eglibrary-android-java-wrapper</artifactId>
   <version>0.1.0</version>
   <versioning>
     <versions>
