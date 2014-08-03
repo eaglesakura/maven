@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.eaglesakura</groupId>
+  <artifactId>joint-connector-plugin</artifactId>
+  <version>0.1.2</version>
+  <versioning>
+    <versions>
+      <version>0.1.2</version>
+    </versions>
+    <lastUpdated>20140803035704</lastUpdated>
+  </versioning>
+</metadata>
