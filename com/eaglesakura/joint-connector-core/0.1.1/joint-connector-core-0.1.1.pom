@@ -20,27 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>library</groupId>
-      <artifactId>joint-connector-annotation</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.protobuf</groupId>
-      <artifactId>protobuf-java</artifactId>
-      <version>2.5.+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.eaglesakura</groupId>
-      <artifactId>eglibrary-java-core</artifactId>
-      <version>0.1.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.javassist</groupId>
-      <artifactId>javassist</artifactId>
-      <version>3.18.+</version>
+      <artifactId>joint-connector-annotation</artifactId>
+      <version>0.1.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
