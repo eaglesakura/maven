@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.eaglesakura</groupId>
+  <artifactId>joint-connector-plugin</artifactId>
+  <version>0.1.8</version>
+  <inceptionYear>2014</inceptionYear>
+  <licenses>
+    <license>
+      <name>NYSL</name>
+      <url>https://raw.githubusercontent.com/eaglesakura/eglibrary/master/LICENSE</url>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>eglibrary-java-wrapper</artifactId>
+      <version>0.1.18</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>eglibrary-groovy-core</artifactId>
+      <version>0.1.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>joint-connector-annotation</artifactId>
+      <version>0.1.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.protobuf</groupId>
+      <artifactId>protobuf-java</artifactId>
+      <version>2.5.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.javassist</groupId>
+      <artifactId>javassist</artifactId>
+      <version>3.18.+</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
