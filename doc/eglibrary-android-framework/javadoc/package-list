@@ -1,0 +1,11 @@
+com.eaglesakura.android.dao.net
+com.eaglesakura.android.framework
+com.eaglesakura.android.framework.context
+com.eaglesakura.android.framework.db
+com.eaglesakura.android.framework.net
+com.eaglesakura.android.framework.support.service
+com.eaglesakura.android.framework.support.ui
+com.eaglesakura.android.framework.support.ui.adapter
+com.eaglesakura.android.framework.support.ui.license
+com.eaglesakura.android.framework.support.ui.playservice
+com.eaglesakura.android.framework.ui.image

@@ -9,7 +9,11 @@
   <licenses>
     <license>
       <name>NYSL</name>
-      <url>https://raw.github.com/eaglesakura/eglibrary/master/LICENSE</url>
+      <url>https://raw.githubusercontent.com/eaglesakura/eglibrary/master/LICENSE-NYSL-eng.txt</url>
+    </license>
+    <license>
+      <name>MIT License</name>
+      <url>https://raw.githubusercontent.com/eaglesakura/eglibrary/master/LICENSE-MIT.txt</url>
     </license>
   </licenses>
   <dependencies>

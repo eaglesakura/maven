@@ -1,7 +1,3 @@
-com.eaglesakura.android.bluetooth
-com.eaglesakura.android.bluetooth.beacon
-com.eaglesakura.android.bluetooth.p2p
-com.eaglesakura.android.bluetooth.ui
 com.eaglesakura.android.dao.bkvs
 com.eaglesakura.android.dao.tkvs
 com.eaglesakura.android.db
