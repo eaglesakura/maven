@@ -1,5 +1,9 @@
 com.eaglesakura.android.annotations
 com.eaglesakura.android.app
+com.eaglesakura.android.bluetooth
+com.eaglesakura.android.bluetooth.beacon
+com.eaglesakura.android.bluetooth.beacon.data
+com.eaglesakura.android.bluetooth.p2p
 com.eaglesakura.android.camera
 com.eaglesakura.android.device.external
 com.eaglesakura.android.device.sound
@@ -10,6 +14,7 @@ com.eaglesakura.android.power
 com.eaglesakura.android.sensor
 com.eaglesakura.android.thread
 com.eaglesakura.android.ui
+com.eaglesakura.android.ui.image
 com.eaglesakura.android.ui.list
 com.eaglesakura.android.ui.spinner
 com.eaglesakura.android.util
