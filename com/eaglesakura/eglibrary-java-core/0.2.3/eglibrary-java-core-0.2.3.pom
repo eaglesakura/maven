@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.eaglesakura</groupId>
+  <artifactId>eglibrary-java-core</artifactId>
+  <version>0.2.3</version>
+  <inceptionYear>2011</inceptionYear>
+  <licenses>
+    <license>
+      <name>NYSL</name>
+      <url>https://raw.githubusercontent.com/eaglesakura/eglibrary/master/LICENSE-NYSL-eng.txt</url>
+    </license>
+    <license>
+      <name>MIT License</name>
+      <url>https://raw.githubusercontent.com/eaglesakura/eglibrary/master/LICENSE-MIT.txt</url>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>joint-connector-annotation</artifactId>
+      <version>0.1.13</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
