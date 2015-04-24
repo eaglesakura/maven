@@ -18,15 +18,15 @@
   </licenses>
   <dependencies>
     <dependency>
-      <groupId>eglibrary</groupId>
-      <artifactId>eglibrary-java-core</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.eaglesakura</groupId>
       <artifactId>joint-connector-annotation</artifactId>
       <version>0.1.13</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>eglibrary</groupId>
+      <artifactId>eglibrary-java-core</artifactId>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
