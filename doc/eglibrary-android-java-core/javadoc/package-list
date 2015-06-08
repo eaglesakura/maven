@@ -5,13 +5,15 @@ com.eaglesakura.android.bluetooth.beacon
 com.eaglesakura.android.bluetooth.beacon.data
 com.eaglesakura.android.bluetooth.p2p
 com.eaglesakura.android.camera
+com.eaglesakura.android.debug.window
+com.eaglesakura.android.debug.window.log
 com.eaglesakura.android.device.external
 com.eaglesakura.android.device.sound
 com.eaglesakura.android.device.vibrate
 com.eaglesakura.android.graphics
 com.eaglesakura.android.math
-com.eaglesakura.android.power
 com.eaglesakura.android.sensor
+com.eaglesakura.android.system
 com.eaglesakura.android.thread
 com.eaglesakura.android.ui
 com.eaglesakura.android.ui.image

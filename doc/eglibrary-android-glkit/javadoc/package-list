@@ -1,6 +1,8 @@
+com.eaglesakura.android.debug
 com.eaglesakura.android.glkit
 com.eaglesakura.android.glkit.egl
 com.eaglesakura.android.glkit.egl11
 com.eaglesakura.android.glkit.gl
 com.eaglesakura.android.glkit.media
 com.eaglesakura.android.glkit.res
+com.eaglesakura.android.message
