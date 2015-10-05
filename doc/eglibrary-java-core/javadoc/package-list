@@ -1,8 +1,11 @@
 com.eaglesakura.cipher
+com.eaglesakura.geo
 com.eaglesakura.graphics
 com.eaglesakura.io
 com.eaglesakura.io.data
+com.eaglesakura.json
 com.eaglesakura.math
+com.eaglesakura.proguard
 com.eaglesakura.thread
 com.eaglesakura.time
 com.eaglesakura.util
