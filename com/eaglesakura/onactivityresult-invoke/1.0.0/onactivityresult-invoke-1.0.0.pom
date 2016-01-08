@@ -9,8 +9,8 @@
   <inceptionYear>2016</inceptionYear>
   <licenses>
     <license>
-      <name>Apache License</name>
-      <url>https://raw.githubusercontent.com/eaglesakura/small-aquery/master/LICENSE.txt</url>
+      <name>MIT License</name>
+      <url>https://raw.githubusercontent.com/eaglesakura/onactivityresult-invoke/master/LICENSE.txt</url>
     </license>
   </licenses>
 </project>
