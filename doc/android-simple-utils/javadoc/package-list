@@ -1,0 +1,11 @@
+com.eaglesakura.android.app
+com.eaglesakura.android.device.external
+com.eaglesakura.android.device.sound
+com.eaglesakura.android.device.vibrate
+com.eaglesakura.android.sensor
+com.eaglesakura.android.system
+com.eaglesakura.android.ui
+com.eaglesakura.android.ui.list
+com.eaglesakura.android.ui.spinner
+com.eaglesakura.android.util
+com.eaglesakura.android.xml
