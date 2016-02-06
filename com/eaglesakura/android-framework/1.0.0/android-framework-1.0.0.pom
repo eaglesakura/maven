@@ -22,7 +22,7 @@
     </dependency>
     <dependency>
       <groupId>frankiesardo</groupId>
-      <artifactId>icepick:</artifactId>
+      <artifactId>icepick</artifactId>
       <version>3.1.+</version>
       <scope>compile</scope>
     </dependency>
