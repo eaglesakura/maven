@@ -3,12 +3,13 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>android-command-service</artifactId>
   <versioning>
-    <release>1.1.5</release>
+    <release>1.1.10</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.1.5</version>
+      <version>1.1.10</version>
     </versions>
-    <lastUpdated>20160209014509</lastUpdated>
+    <lastUpdated>20160209062935</lastUpdated>
   </versioning>
 </metadata>
