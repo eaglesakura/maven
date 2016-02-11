@@ -2,7 +2,14 @@ com.eaglesakura.andriders
 com.eaglesakura.andriders.central
 com.eaglesakura.andriders.central.event
 com.eaglesakura.andriders.command
+com.eaglesakura.andriders.extension
+com.eaglesakura.andriders.extension.data
+com.eaglesakura.andriders.extension.display
+com.eaglesakura.andriders.extension.internal
+com.eaglesakura.andriders.idl.display
+com.eaglesakura.andriders.idl.remote
 com.eaglesakura.andriders.media
 com.eaglesakura.andriders.notification
 com.eaglesakura.andriders.protocol
+com.eaglesakura.andriders.service
 com.eaglesakura.andriders.ui
