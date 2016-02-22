@@ -1,3 +1,6 @@
 com.eaglesakura.io
 com.eaglesakura.io.data
+com.eaglesakura.serialize
+com.eaglesakura.serialize.error
+com.eaglesakura.serialize.internal
 com.eaglesakura.util
