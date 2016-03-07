@@ -1,2 +1,3 @@
+com.eaglesakura.gradle.helper
 com.eaglesakura.gradle.plugin
-com.eaglesakura.gradle.tasks
+com.eaglesakura.gradle.task
