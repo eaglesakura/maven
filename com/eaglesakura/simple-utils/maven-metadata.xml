@@ -3,7 +3,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>simple-utils</artifactId>
   <versioning>
-    <release>1.1.80</release>
+    <release>1.1.83</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -24,7 +24,8 @@
       <version>1.1.72</version>
       <version>1.1.78</version>
       <version>1.1.80</version>
+      <version>1.1.83</version>
     </versions>
-    <lastUpdated>20160315031255</lastUpdated>
+    <lastUpdated>20160316030455</lastUpdated>
   </versioning>
 </metadata>
