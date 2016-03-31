@@ -8,9 +8,9 @@ com.eaglesakura.android.framework.ui.adapter
 com.eaglesakura.android.framework.ui.content
 com.eaglesakura.android.framework.ui.license
 com.eaglesakura.android.framework.ui.message
-com.eaglesakura.android.framework.ui.state
 com.eaglesakura.android.framework.util
 com.eaglesakura.android.playservice
 com.eaglesakura.material.widget
+com.eaglesakura.material.widget.adapter
 com.eaglesakura.material.widget.support
 com.eaglesakura.material.widget.support.header
