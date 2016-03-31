@@ -1,4 +1,5 @@
 com.eaglesakura.android.app
+com.eaglesakura.android.device.display
 com.eaglesakura.android.device.external
 com.eaglesakura.android.device.sound
 com.eaglesakura.android.device.vibrate
