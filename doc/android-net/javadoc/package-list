@@ -2,8 +2,8 @@ com.eaglesakura.android.net
 com.eaglesakura.android.net.cache
 com.eaglesakura.android.net.cache.file
 com.eaglesakura.android.net.cache.tkvs
+com.eaglesakura.android.net.error
 com.eaglesakura.android.net.internal
 com.eaglesakura.android.net.parser
 com.eaglesakura.android.net.request
 com.eaglesakura.android.net.stream
-com.eaglesakura.android.net.util
