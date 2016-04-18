@@ -1,13 +1,14 @@
+android.support.v4.app
 com.eaglesakura.android.debug
 com.eaglesakura.android.framework
 com.eaglesakura.android.framework.db
 com.eaglesakura.android.framework.service
 com.eaglesakura.android.framework.ui
 com.eaglesakura.android.framework.ui.adapter
-com.eaglesakura.android.framework.ui.content
-com.eaglesakura.android.framework.ui.dialog
+com.eaglesakura.android.framework.ui.delegate
 com.eaglesakura.android.framework.ui.license
 com.eaglesakura.android.framework.ui.message
+com.eaglesakura.android.framework.ui.support
 com.eaglesakura.android.framework.util
 com.eaglesakura.android.graphics
 com.eaglesakura.android.playservice
