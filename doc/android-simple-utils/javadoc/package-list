@@ -3,6 +3,7 @@ com.eaglesakura.android.device.display
 com.eaglesakura.android.device.external
 com.eaglesakura.android.device.sound
 com.eaglesakura.android.device.vibrate
+com.eaglesakura.android.res
 com.eaglesakura.android.sensor
 com.eaglesakura.android.system
 com.eaglesakura.android.ui
