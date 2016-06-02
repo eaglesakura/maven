@@ -3,7 +3,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>android-framework</artifactId>
   <versioning>
-    <release>2.23.1.226</release>
+    <release>2.23.1.230</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.13</version>
@@ -38,7 +38,8 @@
       <version>2.23.0.208</version>
       <version>2.23.1.223</version>
       <version>2.23.1.226</version>
+      <version>2.23.1.230</version>
     </versions>
-    <lastUpdated>20160531143939</lastUpdated>
+    <lastUpdated>20160602053529</lastUpdated>
   </versioning>
 </metadata>
