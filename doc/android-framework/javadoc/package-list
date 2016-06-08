@@ -18,6 +18,7 @@ com.eaglesakura.android.graphics.loader
 com.eaglesakura.android.playservice
 com.eaglesakura.android.system
 com.eaglesakura.android.util
+com.eaglesakura.freezer
 com.eaglesakura.material.widget
 com.eaglesakura.material.widget.adapter
 com.eaglesakura.material.widget.support
