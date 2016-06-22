@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.eaglesakura</groupId>
+  <artifactId>android-framework</artifactId>
+  <version>2.24.0.274</version>
+  <packaging>aar</packaging>
+  <inceptionYear>2016</inceptionYear>
+  <dependencies>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>margarineknife</artifactId>
+      <version>1.2.128</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>garnet</artifactId>
+      <version>0.2.18</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>rxandroid-support</artifactId>
+      <version>1.1.120</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.eaglesakura</groupId>
+      <artifactId>light-saver</artifactId>
+      <version>1.0.9</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
