@@ -14,7 +14,6 @@ com.eaglesakura.android.framework.ui.support
 com.eaglesakura.android.framework.util
 com.eaglesakura.android.graphics
 com.eaglesakura.android.graphics.loader
-com.eaglesakura.android.playservice
 com.eaglesakura.android.system
 com.eaglesakura.android.util
 com.eaglesakura.material.widget
