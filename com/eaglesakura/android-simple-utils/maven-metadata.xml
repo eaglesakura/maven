@@ -3,7 +3,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>android-simple-utils</artifactId>
   <versioning>
-    <release>1.0.199</release>
+    <release>1.0.205</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -25,7 +25,8 @@
       <version>1.0.171</version>
       <version>1.0.179</version>
       <version>1.0.199</version>
+      <version>1.0.205</version>
     </versions>
-    <lastUpdated>20160701033055</lastUpdated>
+    <lastUpdated>20160705052609</lastUpdated>
   </versioning>
 </metadata>
