@@ -3,13 +3,14 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>android-firebase</artifactId>
   <versioning>
-    <release>1.9.0.x.14</release>
+    <release>1.9.0.x.31</release>
     <versions>
       <version>1.9.0.x.6</version>
       <version>1.9.0.x.8</version>
       <version>1.9.0.x.10</version>
       <version>1.9.0.x.14</version>
+      <version>1.9.0.x.31</version>
     </versions>
-    <lastUpdated>20160701035449</lastUpdated>
+    <lastUpdated>20160714063103</lastUpdated>
   </versioning>
 </metadata>
