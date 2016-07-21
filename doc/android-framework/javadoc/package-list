@@ -6,6 +6,7 @@ com.eaglesakura.android.framework.db
 com.eaglesakura.android.framework.delegate.activity
 com.eaglesakura.android.framework.delegate.fragment
 com.eaglesakura.android.framework.delegate.lifecycle
+com.eaglesakura.android.framework.provider
 com.eaglesakura.android.framework.ui
 com.eaglesakura.android.framework.ui.license
 com.eaglesakura.android.framework.ui.message
