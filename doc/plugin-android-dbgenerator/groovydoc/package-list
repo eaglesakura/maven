@@ -1,2 +1,4 @@
 com.eaglesakura.gradle.android.db
+com.eaglesakura.gradle.android.property
+com.eaglesakura.gradle.plugin
 com.eaglesakura.gradle.task
