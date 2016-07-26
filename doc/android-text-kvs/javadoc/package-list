@@ -1,1 +1,4 @@
 com.eaglesakura.android.db
+com.eaglesakura.android.property
+com.eaglesakura.android.property.internal
+com.eaglesakura.android.property.model
