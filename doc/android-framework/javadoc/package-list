@@ -2,10 +2,12 @@ android.databinding.layouts
 android.support.v4.app
 com.eaglesakura.android.debug
 com.eaglesakura.android.framework
-com.eaglesakura.android.framework.db
+com.eaglesakura.android.framework.content
+com.eaglesakura.android.framework.content.property
 com.eaglesakura.android.framework.delegate.activity
 com.eaglesakura.android.framework.delegate.fragment
 com.eaglesakura.android.framework.delegate.lifecycle
+com.eaglesakura.android.framework.gen.props
 com.eaglesakura.android.framework.provider
 com.eaglesakura.android.framework.ui
 com.eaglesakura.android.framework.ui.license
