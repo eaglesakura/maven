@@ -7,6 +7,7 @@ com.eaglesakura.android.device.vibrate
 com.eaglesakura.android.error
 com.eaglesakura.android.res
 com.eaglesakura.android.sensor
+com.eaglesakura.android.sql
 com.eaglesakura.android.system
 com.eaglesakura.android.ui
 com.eaglesakura.android.ui.list
