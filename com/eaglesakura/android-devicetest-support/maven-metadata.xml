@@ -3,7 +3,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>android-devicetest-support</artifactId>
   <versioning>
-    <release>1.2.205</release>
+    <release>1.2.207</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.25</version>
@@ -21,7 +21,8 @@
       <version>1.2.193</version>
       <version>1.2.202</version>
       <version>1.2.205</version>
+      <version>1.2.207</version>
     </versions>
-    <lastUpdated>20160817060947</lastUpdated>
+    <lastUpdated>20160817102208</lastUpdated>
   </versioning>
 </metadata>
