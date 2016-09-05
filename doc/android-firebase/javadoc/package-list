@@ -1,4 +1,5 @@
 com.eaglesakura.android.firebase.auth
 com.eaglesakura.android.firebase.config
 com.eaglesakura.android.firebase.database
+com.eaglesakura.android.firebase.database.debug
 com.eaglesakura.android.firebase.error
