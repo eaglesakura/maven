@@ -14,6 +14,7 @@ com.eaglesakura.android.framework.ui.license
 com.eaglesakura.android.framework.ui.message
 com.eaglesakura.android.framework.ui.progress
 com.eaglesakura.android.framework.ui.support
+com.eaglesakura.android.framework.ui.support.annotation
 com.eaglesakura.android.framework.util
 com.eaglesakura.android.graphics
 com.eaglesakura.android.graphics.loader
