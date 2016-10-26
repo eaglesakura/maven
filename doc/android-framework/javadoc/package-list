@@ -7,6 +7,7 @@ com.eaglesakura.android.framework.content.property
 com.eaglesakura.android.framework.delegate.activity
 com.eaglesakura.android.framework.delegate.fragment
 com.eaglesakura.android.framework.delegate.lifecycle
+com.eaglesakura.android.framework.delegate.task
 com.eaglesakura.android.framework.gen.props
 com.eaglesakura.android.framework.provider
 com.eaglesakura.android.framework.ui
