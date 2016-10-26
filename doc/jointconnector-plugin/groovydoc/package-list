@@ -1,0 +1,10 @@
+com.eaglesakura.jc.generator
+com.eaglesakura.jc.generator.cpp
+com.eaglesakura.jc.generator.wrapper
+com.eaglesakura.jc.gradle.plugin
+com.eaglesakura.jc.gradle.tasks
+com.eaglesakura.jc.parser
+com.eaglesakura.jc.parser.dex
+com.eaglesakura.jc.parser.importer
+com.eaglesakura.jc.parser.model
+com.eaglesakura.jc.parser.pool
