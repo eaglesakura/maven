@@ -3,10 +3,11 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>light-saver</artifactId>
   <versioning>
-    <release>1.0.9</release>
+    <release>1.1.94</release>
     <versions>
       <version>1.0.9</version>
+      <version>1.1.94</version>
     </versions>
-    <lastUpdated>20160619222556</lastUpdated>
+    <lastUpdated>20161031054540</lastUpdated>
   </versioning>
 </metadata>
