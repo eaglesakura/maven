@@ -1,4 +1,7 @@
 com.eaglesakura.android.bluetooth
 com.eaglesakura.android.bluetooth.beacon
 com.eaglesakura.android.bluetooth.beacon.data
+com.eaglesakura.android.bluetooth.error
+com.eaglesakura.android.bluetooth.gatt
+com.eaglesakura.android.bluetooth.gatt.scs
 com.eaglesakura.android.bluetooth.p2p
