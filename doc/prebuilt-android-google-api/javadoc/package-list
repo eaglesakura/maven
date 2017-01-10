@@ -1,9 +1,6 @@
 com.google.api
-com.google.api.servicecontrol.v1
-com.google.api.servicemanagement.v1
 com.google.bytestream
 com.google.cloud.speech.v1beta1
-com.google.container.v1
 com.google.logging.type
 com.google.longrunning
 com.google.protobuf
