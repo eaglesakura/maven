@@ -3,7 +3,7 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>andriders-central-engine-sdk</artifactId>
   <versioning>
-    <release>3.0.beta-472</release>
+    <release>3.0.beta-483</release>
     <versions>
       <version>0.3.1</version>
       <version>0.3.2</version>
@@ -15,7 +15,8 @@
       <version>3.0.beta-457</version>
       <version>3.0.461</version>
       <version>3.0.beta-472</version>
+      <version>3.0.beta-483</version>
     </versions>
-    <lastUpdated>20170111142244</lastUpdated>
+    <lastUpdated>20170120153649</lastUpdated>
   </versioning>
 </metadata>
