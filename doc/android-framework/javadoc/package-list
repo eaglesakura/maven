@@ -24,4 +24,5 @@ com.eaglesakura.android.util
 com.eaglesakura.material.widget
 com.eaglesakura.material.widget.adapter
 com.eaglesakura.material.widget.support
+com.eaglesakura.material.widget.support.web
 com.squareup.otto
