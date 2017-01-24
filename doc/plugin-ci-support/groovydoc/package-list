@@ -1,3 +1,5 @@
+com.eaglesakura.gradle.googleplay
 com.eaglesakura.gradle.helper
 com.eaglesakura.gradle.plugin
 com.eaglesakura.gradle.task
+com.google.play.developerapi.samples
