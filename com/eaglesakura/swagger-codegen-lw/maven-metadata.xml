@@ -3,13 +3,14 @@
   <groupId>com.eaglesakura</groupId>
   <artifactId>swagger-codegen-lw</artifactId>
   <versioning>
-    <release>1.0.19</release>
+    <release>1.0.22</release>
     <versions>
       <version>1.0.10</version>
       <version>1.0.11</version>
       <version>1.0.12</version>
       <version>1.0.19</version>
+      <version>1.0.22</version>
     </versions>
-    <lastUpdated>20170306022437</lastUpdated>
+    <lastUpdated>20170307014001</lastUpdated>
   </versioning>
 </metadata>
